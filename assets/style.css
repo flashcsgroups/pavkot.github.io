@@ -1,0 +1,39 @@
+body{
+	background: #3766b2;
+}
+#nm{
+	background: #3766b2;
+}
+#nm h1{
+	color: white;
+}
+#par{
+	color: white;
+}
+.avatar{
+	width: 45%;
+}
+.card_text{
+	color: black;
+}
+#card0{
+width: 17rem;
+}
+#card01{
+	width: 17rem;
+}
+#card0:hover{
+    box-shadow: 0 1px 4px 0 rgba(35,35,35,350);
+}
+#card01:hover{
+    box-shadow: 0 1px 4px 0 rgba(35,35,35,350);
+}
+
+@media screen and (max-width: 1000px){
+   .card{
+   	margin:auto;
+   }
+   .row{
+   	margin: 0 auto;
+   }
+}
